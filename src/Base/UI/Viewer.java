@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Viewer extends JFrame {
 	public Viewer() {
-		setTitle("Login");
+		setTitle("Timer!");
 		setSize(400, 300);
 		setVisible(true);
 		setResizable(false);
